@@ -1,3 +1,21 @@
 2020-10-17 16:57:36,339 :INFO : test_e2e :Select shop button
 2020-10-17 16:57:37,725 :INFO : test_e2e :Clicked on Checkout button
 2020-10-17 16:57:43,428 :INFO : test_e2e :click on india
+2020-10-17 17:15:54,141 :INFO : test_e2e :Select shop button
+2020-10-17 17:15:55,192 :INFO : test_e2e :Clicked on Checkout button
+2020-10-17 17:16:00,762 :INFO : test_e2e :click on india
+2020-10-17 17:16:08,513 :INFO : test_formsubmission :Fill the form
+2020-10-17 17:16:08,895 :INFO : test_formsubmission :Assert Verified
+2020-10-17 17:16:16,830 :INFO : test_formsubmission :Fill the form
+2020-10-17 17:16:16,830 :INFO : test_formsubmission :Fill the form
+2020-10-17 17:16:17,387 :INFO : test_formsubmission :Assert Verified
+2020-10-17 17:16:17,387 :INFO : test_formsubmission :Assert Verified
+2020-10-17 20:23:29,591 :INFO : test_e2e :Select shop button
+2020-10-17 20:23:30,661 :INFO : test_e2e :Clicked on Checkout button
+2020-10-17 20:23:36,212 :INFO : test_e2e :click on india
+2020-10-17 20:23:43,576 :INFO : test_formsubmission :Fill the form
+2020-10-17 20:23:43,959 :INFO : test_formsubmission :Assert Verified
+2020-10-17 20:23:51,320 :INFO : test_formsubmission :Fill the form
+2020-10-17 20:23:51,320 :INFO : test_formsubmission :Fill the form
+2020-10-17 20:23:51,849 :INFO : test_formsubmission :Assert Verified
+2020-10-17 20:23:51,849 :INFO : test_formsubmission :Assert Verified
